@@ -1,2 +1,8 @@
 # Developer-Practise
 Best practices to building the solid softwares
+Author: Mayura
+This article began after reading and hearing questions new developers have on the basics of software architecture. There are some good articles out there, but developers still struggle to understand the basic concepts, and more importantly, the way to apply them correctly.
+
+As I see it, newcomers will always struggle to understand the precise definition of a new concept, because it is always a new and hence unfamiliar idea. The ones who have experience understand the meaning, but the ones who don’t struggle to understand the very definition. It is like that. Employers want experienced employees. So they say, you need to have experience to get a job. But how the hell is one supposed to have experience if no one is willing to give him a job? As in the general case, the start with software architecture is no exception. It will be difficult. When you start to design your very first system, you will try to apply everything you know or have learned from everywhere. You will feel that an interface needs to be defined for every class, like I did once. You will find it harder to understand when and when not to do something. Just prepare to go through the painful process. Others will criticize you, may laugh at you, and say that the way you have designed is wrong. Listen to them, and learn continuously. In this process you will also have to read and think a lot. I hope that this article will give you the right start for that long journey.
+
+“The knowledge of the actions of great men, acquired by long experience in contemporary affairs, and a continual study of antiquity” – I read this phrase when I was reading the book named “The Art of War”, seems applicable here, isn’t it?
